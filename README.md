@@ -1,2 +1,6 @@
-# FirstRepo2026
-this is my level 12 python codegym class on git and github
+#FirstRepo
+
+1. Make Changes
+2. Stage the changes
+3. Commit the changes
+4. Push to remote
